@@ -1,6 +1,6 @@
 # Contest OS
 
-算法竞赛赛事管理与榜单分析系统，使用 SQL Server 2022、ASP.NET Core 8 和原生 JavaScript。数据库负责赛事规则、成绩聚合及重判事务，Web 页面提供查询和操作入口。
+FAFU算法竞赛赛事管理与榜单分析系统，使用 SQL Server 2022、ASP.NET Core 8 和原生 JavaScript。数据库负责赛事规则、成绩聚合及重判事务，Web 页面提供查询和操作入口。
 
 ![赛事总览](docs/images/overview.png)
 
