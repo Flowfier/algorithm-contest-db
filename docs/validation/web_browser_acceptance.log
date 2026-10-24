@@ -1,0 +1,14 @@
+Web browser acceptance — 2026-10-10
+Runner: Playwright + ASP.NET Core 8 local server
+Result: PASS
+pageErrors: []
+captures: 7
+Captured pages:
+- overview.png
+- scoreboard_public.png
+- scoreboard_jury.png
+- analytics.png
+- history.png
+- rejudge.png
+- scoreboard_ioi.png
+The captures cover public/jury visibility, ICPC/IOI ranking, analytics, history and rejudge audit states.

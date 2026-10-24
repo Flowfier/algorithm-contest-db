@@ -1,0 +1,13 @@
+health|200|{"status":"ok","service":"AlgorithmContestWeb"}
+detail|200|{"contest":{"contestId":1,"contestCode":"CAMPUS-ICPC-2026","title":"2026 校园算法竞赛春季赛","scoringMode":"ICPC","startTime":"2026-10-01T09:00:00","endTime":"2026-10-08T14:00:00","freezeAt
+metrics|200|{"teams":8,"problems":8,"submissions":129,"accepted":65,"solvedTeams":8,"hiddenSubmissions":24}
+icpc-public|200|{"visibility":"public","rows":[{"rank":1,"teamId":5,"teamCode":"ICPC-05","teamName":"指针与引用","scoringMode":"ICPC","solved":7,"score":0.00,"penalty":435,"lastSolvedAt":"2026-10-01T10
+icpc-jury|200|{"visibility":"jury","rows":[{"rank":1,"teamId":5,"teamCode":"ICPC-05","teamName":"指针与引用","scoringMode":"ICPC","solved":8,"score":0.00,"penalty":9110,"lastSolvedAt":"2026-10-07T09:
+ioi-public|200|{"visibility":"public","rows":[{"rank":1,"teamId":9,"teamCode":"IOI-01","teamName":"满分幻想家","scoringMode":"IOI","solved":0,"score":680.00,"penalty":0,"lastSolvedAt":"2026-09-01T10:2
+submissions|200|[{"submissionId":127,"contestCode":"CAMPUS-ICPC-2026","teamCode":"ICPC-08","teamName":"随机化协会","problemCode":"H","problemTitle":"几何凸包","languageCode":"cpp17","languageName":"C++ 17"
+history|200|[{"submissionId":1,"contestCode":"CAMPUS-ICPC-2026","teamCode":"ICPC-01","teamName":"递归不归队","problemCode":"A","problemTitle":"序列重排","languageCode":"python311","languageName":"Pytho
+problem-stats|200|[{"contestCode":"CAMPUS-ICPC-2026","problemCode":"A","title":"序列重排","submissions":17,"accepted":9,"acceptedRate":52.94,"averageScore":52.941176,"firstAcceptedAt":"2026-10-01T09:17:
+team-performance|200|[{"contestCode":"CAMPUS-ICPC-2026","teamCode":"ICPC-01","teamName":"递归不归队","submissions":17,"accepted":9,"acceptedRate":52.94,"averageRuntimeMs":162.823529,"solvedProblems":8},{"co
+analytics|200|{"languages":[{"code":"cpp17","name":"C++ 17","submissions":33,"accepted":17},{"code":"java17","name":"Java 17","submissions":32,"accepted":16},{"code":"python311","name":"Python 3
+rejudge-history|200|{"batchId":1,"contestId":1,"batchCode":"RJ-20261009-657776","reason":"正式重判测试","status":"APPLIED","createdAt":"2026-10-08T17:40:31","appliedAt":"2026-10-08T17:40:31","createdBy":"王裁
+invalid-mode|400|远程服务器返回错误: (400) 错误的请求。

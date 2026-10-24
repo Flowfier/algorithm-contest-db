@@ -1,0 +1,20 @@
+已将数据库上下文更改为 "master"。
+已处理百分之 10。
+已处理百分之 20。
+已处理百分之 30。
+已处理百分之 40。
+已处理百分之 50。
+已处理百分之 60。
+已处理百分之 70。
+已处理百分之 80。
+已处理百分之 90。
+已处理百分之 100。
+已为数据库 'AlgorithmContestDB'，文件 'AlgorithmContestDB' (位于文件 1 上)处理了 856 页。
+已为数据库 'AlgorithmContestDB'，文件 'AlgorithmContestDB_log' (位于文件 1 上)处理了 2 页。
+BACKUP DATABASE 成功处理了 858 页，花费 0.017 秒(394.071 MB/秒)。
+文件 1 上的备份集有效。
+备份完成并通过 RESTORE VERIFYONLY 校验：<project-root>\database\backup\AlgorithmContestDB_full.bak
+恢复示例（请在确认覆盖目标数据库后执行）：
+ALTER DATABASE [AlgorithmContestDB] SET SINGLE_USER WITH ROLLBACK IMMEDIATE;
+RESTORE DATABASE [AlgorithmContestDB] FROM DISK = N'<project-root>\database\backup\AlgorithmContestDB_full.bak' WITH REPLACE, RECOVERY;
+ALTER DATABASE [AlgorithmContestDB] SET MULTI_USER;

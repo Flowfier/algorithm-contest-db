@@ -6,6 +6,12 @@
 *.user
 *.suo
 *.log
+!docs/validation/04_tests.log
+!docs/validation/05_performance.log
+!docs/validation/06_backup_restore.log
+!docs/validation/build.log
+!docs/validation/web_api.log
+!docs/validation/web_browser_acceptance.log
 *.bak
 *.mdf
 *.ldf

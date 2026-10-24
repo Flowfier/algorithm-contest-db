@@ -2,7 +2,7 @@
 
 FAFU算法竞赛赛事管理与榜单分析系统，使用 SQL Server 2022、ASP.NET Core 8 和原生 JavaScript。数据库负责赛事规则、成绩聚合及重判事务，Web 页面提供查询和操作入口。
 
-![赛事总览](docs/images/overview.png)
+![赛事总览](docs/web_final_desktop.png)
 
 ## 功能
 
@@ -84,4 +84,10 @@ docs/           接口说明、数据库设计和图片
 .github/        构建与 JavaScript 语法检查
 ```
 
-接口参数见 [API 说明](docs/api.md)，表结构和规则职责见 [数据库设计](docs/database.md)。[系统架构图](docs/images/architecture.png)、[E-R 图](docs/images/er-diagram.png) 和 [移动端页面](docs/images/mobile.png) 位于 `docs/images/`。
+接口参数见 [API 说明](docs/api.md)，表结构和规则职责见 [数据库设计](docs/database.md)。[系统架构图](docs/architecture.png)、[E-R 图](docs/er_diagram.png) 和 [移动端页面](docs/web_final_mobile.png) 位于 `docs/`。
+
+## 验收材料
+
+[提交文件清单](docs/submission_files.md) 列出了源码、数据库脚本、截图与验证日志的路径，文件名与报告中的清单对应。
+
+[功能截图](docs/report_expansion_assets/README.md) 包含 ICPC 公开榜与裁判榜、IOI 榜单、提交历史、数据分析和重判页面。[验证记录](docs/validation/README.md) 保存 SQL 测试、索引对比、备份校验、接口调用及编译输出。

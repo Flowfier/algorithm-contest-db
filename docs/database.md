@@ -2,7 +2,7 @@
 
 ## 关系结构
 
-![E-R 图](images/er-diagram.png)
+![E-R 图](er_diagram.png)
 
 | 表 | 保存的事实 |
 | --- | --- |
